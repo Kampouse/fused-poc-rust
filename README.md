@@ -1,6 +1,8 @@
 be on linux have a rust installation with  pkg-config fuse3
 create a folder for the program to run  ex temp
-run:cargo build && cargo run &  cd temp 
+```
+cargo build && cargo run &  cd temp
+```
 
 
 # FileSystem / fs / kernel module
